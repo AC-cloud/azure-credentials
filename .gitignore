@@ -1,3 +1,4 @@
 *.pem
 *.pfx
 *.crt
+*.box
